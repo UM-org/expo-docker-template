@@ -7,9 +7,9 @@ An example of Expo React Native with docker
     - expo-cli
 
 ## Steps :
-    - `npx expo-cli init react_native_app --npm`
-    - `docker-compose build`
-    - `docker-compose up`
+    1. `npx expo-cli init react_native_app --npm`
+    2. `docker-compose build`
+    3. `docker-compose up`
 References:
 - https://docs.docker.com/engine/reference/builder/
 - https://www.rockyourcode.com/how-to-run-react-native-expo-web-in-a-docker-container/
